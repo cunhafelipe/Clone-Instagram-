@@ -17,3 +17,20 @@ main {
   background: #fff;
   border: 1px solid #d8d6d6;
 }
+
+.cadastre {
+  max-width: 450px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 1.3rem 2rem;
+  background-color: #fff;
+  border: 1px solid #d8d6d6;
+}
+
+.cadastre a {
+  margin-left: 5px;
+  color: #0095f6;
+  text-decoration: none;
+}
