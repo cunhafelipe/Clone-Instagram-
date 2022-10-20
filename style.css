@@ -15,7 +15,41 @@ main {
   text-align: center;
   margin-top: 10vh;
   background: #fff;
+  border: 1px solid #dbdbdb;
+}
+
+.logoInstagram {
+  margin-top: 40px;
+}
+
+.telefone {
+  margin-top: 40px;
+  padding: 10px 80px 10px 10px;
+  background-color: #fefdfd;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+}
+
+.senha {
+  margin-top: 6px;
+  padding: 10px 80px 10px 10px;
+  background: #fefdfd;
   border: 1px solid #d8d6d6;
+  border-radius: 3px;
+}
+
+.entrar {
+  max-width: 450px;
+  margin-top: 20px;
+}
+
+.entrar-info {
+  text-decoration: none;
+  background-color: #0094f656;
+  color: #fff;
+  margin-top: 8px;
+  padding: 7px 105px;
+  border-radius: 5px;
 }
 
 .cadastre {
