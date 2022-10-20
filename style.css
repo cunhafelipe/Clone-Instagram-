@@ -10,10 +10,10 @@ body {
 }
 
 main {
-  max-width: 450px;
+  max-width: 400px;
   margin: 0 auto;
   text-align: center;
-  margin-top: 10vh;
+  margin-top: 45px;
   background: #fff;
   border: 1px solid #dbdbdb;
 }
@@ -23,17 +23,19 @@ main {
 }
 
 .telefone {
+  font-size: 12px;
   margin-top: 20px;
-  padding: 10px 100px 10px 10px;
-  background-color: #fefdfd;
+  padding: 10px 120px 10px 10px;
+  background-color: #fafafa;
   border: 1px solid #dbdbdb;
   border-radius: 3px;
 }
 
 .senha {
+  font-size: 12px;
   margin-top: 6px;
-  padding: 10px 100px 10px 10px;
-  background: #fefdfd;
+  padding: 10px 120px 10px 10px;
+  background: #fafafa;
   border: 1px solid #d8d6d6;
   border-radius: 3px;
 }
@@ -83,7 +85,7 @@ main {
 }
 
 .cadastre {
-  max-width: 450px;
+  max-width: 400px;
   display: flex;
   justify-content: center;
   margin: 0 auto;
